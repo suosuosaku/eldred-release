@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "version": "rdc822b72",
+  "assetVersion": "f7e1c94831",
+  "files": {
+    "heavy/shell.js": {
+      "sha256": "dc822b72f323f722f5c8e80cc52532784d8b2d4a4f20b503a201af7b9b8cba50",
+      "bytes": 1062148
+    },
+    "data/pool-crisis.json": {
+      "sha256": "6784ea9d0110525d070766b6dc01f4297a34a91391bb44fd022bd553da6f933d",
+      "bytes": 294550
+    },
+    "data/pool-peace.json": {
+      "sha256": "52ca60f88e20eb7c85d7bcebf35d54fec3173fe8e75bf1faa8c8959389880c47",
+      "bytes": 293179
+    }
+  }
+}
