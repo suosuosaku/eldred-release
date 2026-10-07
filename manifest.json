@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "rae096e35",
-  "assetVersion": "9daca3ec00",
+  "version": "rc7af5417",
+  "assetVersion": "696a21d3c6",
   "files": {
     "heavy/shell.js": {
-      "sha256": "ae096e35a385ffdd7e3a476823c133a6bb5a79c24a5b8214770a09f27596adbb",
-      "bytes": 1281286
+      "sha256": "c7af541739a60a22ec70562455b9eef5961b9fee813fc0389f2a3ddf261811ce",
+      "bytes": 1287810
     },
     "data/pool-crisis.json": {
-      "sha256": "7f5b182f0876db6dd1903e5a53ad5aaca4c584bb1e5d6c95110e6707e373245d",
+      "sha256": "451152925b65ff3d6111581cded8c3ef32d081948e3ba3189c1e64e04cf7023f",
       "bytes": 294451
     },
     "data/pool-peace.json": {
-      "sha256": "f876fe384740073df110505ad11dbe8f9db70643e60f7f1c28c25ab6144c614d",
+      "sha256": "afd2f9c9ab6be558b30d227839d574534288cf59e00e741fdf1ff80c10dda10f",
       "bytes": 293080
     }
   }
