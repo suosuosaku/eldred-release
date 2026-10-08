@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "r8c7b057a",
+  "version": "ra81843f3",
   "assetVersion": "696a21d3c6",
   "files": {
     "heavy/shell.js": {
-      "sha256": "8c7b057a609a6698930b4615ea51d139e421ed99fb1d458a1a02d0e7730af0f2",
-      "bytes": 1283819
+      "sha256": "a81843f3f2d05ed62b6a899f113fb4783be6d09e9813045cac5f374417c5e77c",
+      "bytes": 1242866
     },
     "data/pool-crisis.json": {
       "sha256": "ca524626c668a1d2a688426f6700158ff8129562cdaa0fb7191154d7269fb23d",
