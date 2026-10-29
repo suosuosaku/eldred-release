@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "r1f02b980",
+  "version": "re5068106",
   "assetVersion": "d00209a38b",
   "files": {
     "heavy/shell.js": {
-      "sha256": "1f02b9806d4b1dd57034085a3d5f6a02b293776725d1369429220eea98302e71",
-      "bytes": 1787195
+      "sha256": "e506810606363c9fc4fc8ac16d8e97cf6f16d909144d4d9cff85c85591103e8d",
+      "bytes": 1787209
     },
     "data/pool-crisis.json": {
       "sha256": "5b36954f94ab12d7cbbc5666eb035bb41e12b85610f04abce96702bf53e671e2",
@@ -20,8 +20,8 @@
       "bytes": 509082
     },
     "light/shell.js": {
-      "sha256": "2e5e95f92e730584a02dc30f6e63f0ba64162f160998e443000b7fde87bc8829",
-      "bytes": 1532445,
+      "sha256": "e94f77fbefd9cdfe253646503274b01d1b775518ce64821502d9da1e71f4b184",
+      "bytes": 1532442,
       "cardPart": 2,
       "minCardPart": 2,
       "api": 1
