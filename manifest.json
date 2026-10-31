@@ -1,27 +1,27 @@
 {
   "schema": 1,
-  "version": "ra1e3c1ef",
+  "version": "r846e0517",
   "assetVersion": "d00209a38b",
   "files": {
     "heavy/shell.js": {
-      "sha256": "a1e3c1efb3044145d74b66dca211c2a098c4c143649c827354c6792d81f2ba1a",
-      "bytes": 1787597
+      "sha256": "846e0517be4dbaa4e4ddec123d539c91eda88486637af6d7aff28bbf044210e1",
+      "bytes": 1788044
     },
     "data/pool-crisis.json": {
-      "sha256": "5b36954f94ab12d7cbbc5666eb035bb41e12b85610f04abce96702bf53e671e2",
+      "sha256": "89a94a46fd76c74c950eeb0334333cdd49c8cb27ea6abf6385b97e75f067d005",
       "bytes": 286290
     },
     "data/pool-peace.json": {
-      "sha256": "bab51aa62cc78bf08180bd10097e36f3ce5c229fb2ab590c05504188afa32e5a",
+      "sha256": "d79ec13dec96a53e4e7121a4d0befc95c1258d50cd00ad501bb515fc6c233af2",
       "bytes": 281919
     },
     "yard/pages.json": {
-      "sha256": "993d2e948786440df9dbd148419d015c44a6cb5cbcf31a15fa31f9a35be28ceb",
-      "bytes": 510217
+      "sha256": "6faa4af952fe1eb86f62e70dc7766e8ce1738ef2976ae063403f71eaf278c9a8",
+      "bytes": 510762
     },
     "light/shell.js": {
-      "sha256": "11b5cd7b72c111ffcdadf3d40e4b6c7601cc075f750b480b1ec4116b53649f86",
-      "bytes": 1532828,
+      "sha256": "33b5b1c9bf3f155da28bf086d0fc87d55553dd9c33ddaad6fb63bd94f26e2413",
+      "bytes": 1533109,
       "cardPart": 2,
       "minCardPart": 2,
       "api": 1
