@@ -1,34 +1,34 @@
 {
   "schema": 1,
-  "version": "r2bb70028",
-  "assetVersion": "d00209a38b",
+  "version": "ree5bcc36",
+  "assetVersion": "d5aed86b90",
   "files": {
     "heavy/shell.js": {
-      "sha256": "2bb700285c4f526b927960eabcf90bbf28fa97773bd866c3406e4b592b80d965",
-      "bytes": 1788358
+      "sha256": "ee5bcc36e7f53f863c2bb3e86fca1f49a5b8b4ff1c3f53ff6c0b32e8212048de",
+      "bytes": 1790256
     },
     "data/pool-crisis.json": {
-      "sha256": "7ffc93768ee52eb9ec289185cf74cba847056a67ede059840fe31b516d32c83d",
+      "sha256": "ad05e228ea4afffcf365f559f85803eb8309e927bd2e7fede8ac3b7bf5ce1b3c",
       "bytes": 286290
     },
     "data/pool-peace.json": {
-      "sha256": "7e229f6d370d7bbe26035efff0d0aaabd97c929c9b1066eb85b05ccf3ec533f1",
+      "sha256": "67bdcaa1eb6e9b60f77cbfe7ba9452d11c3f441f874130ec0107904fa8faa145",
       "bytes": 281919
     },
     "yard/pages.json": {
-      "sha256": "6faa4af952fe1eb86f62e70dc7766e8ce1738ef2976ae063403f71eaf278c9a8",
-      "bytes": 510762
+      "sha256": "a3bdad13e8c20326d8f7600237a8737d260561e84f4d205c3855ad25fe005b08",
+      "bytes": 790061
     },
     "light/shell.js": {
-      "sha256": "2e51b24ca80572a15172babb0ea5c90a42a0958dc8a0f19e5f9bf99de14bcca3",
-      "bytes": 1533423,
+      "sha256": "1a6b7372777007bec1d5b31f1b2b488d227adf5bb4c7bf1e35374ec2cbeddf5c",
+      "bytes": 1535321,
       "cardPart": 2,
       "minCardPart": 2,
       "api": 1
     },
     "opening/app.js": {
-      "sha256": "7d05ca98011695d56a80c7735aee3d2faedcf020955b5f829193be2c6b8821ac",
-      "bytes": 485842,
+      "sha256": "d0d9295d177a7c8ea8c8c455d1382ba74334d6732c8b69165c1dc771c3be8972",
+      "bytes": 486728,
       "cardPart": 2,
       "minCardPart": 2,
       "api": 1
